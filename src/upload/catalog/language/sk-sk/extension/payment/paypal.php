@@ -64,7 +64,7 @@ $_['button_shipping'] 						= 'Aktualizovať dopravu';
 $_['button_pay']							= 'Zaplatiť kartou';
 
 // Error
-$_['error_warning']							= 'Skontrolujte, prosím, formulár – obsahuje chyby.';
+$_['error_warning']							= 'Skontrolujte, prosím, formulár - obsahuje chyby.';
 $_['error_stock']              				= 'Produkty označené *** nie sú dostupné v požadovanom množstve alebo nie sú na sklade!';
 $_['error_minimum']            				= 'Minimálna hodnota objednávky pre %s je %s!';
 $_['error_required']           				= '%s je povinné!';
